@@ -5,7 +5,7 @@ Road safety is a critical issue that affects communities worldwide. This project
 
 ![Dashboard](https://github.com/user-attachments/assets/ee911867-72a3-4142-9611-b9074073fbb2)
 
-🔗 **Live Dashboard:** [Tableau Public - Road Accident Analysis](https://public.tableau.com/app/profile/mayur.jambe/viz/RoadAccidentAnalysis_17382330961130/HOME?publish=yes)  
+# Live Dashboard 🔗: [Tableau Public - Road Accident Analysis](https://public.tableau.com/app/profile/mayur.jambe/viz/RoadAccidentAnalysis_17382330961130/HOME?publish=yes)  
 
 ---
 
