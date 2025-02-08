@@ -24,7 +24,7 @@ The dashboard aims to provide insights into the following aspects:
 
 ### **Secondary KPIs & Insights**  
 📊 **Casualties by Vehicle Type** – Understanding vehicle-wise accident impact  
-📅 **Monthly Trends** – Comparison of casualties between 2021 & 2022  
+📅 **Monthly Trends** – Comparison of casualties between Previous Year & Current Year  
 🛣️ **Casualties by Road Type** – Analyzing accident-prone road categories  
 🌍 **Geospatial Analysis** – Casualties by Area/Location (Urban vs. Rural)  
 🌙 **Day vs. Night Accidents** – Evaluating the role of lighting conditions  
